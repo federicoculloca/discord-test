@@ -9,3 +9,7 @@ body {
 	opacity: 10%;
 	appearance: textfield;
 }
+
+.test2 {
+	appearance: textfield;
+}
