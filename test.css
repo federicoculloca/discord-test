@@ -2,6 +2,7 @@ body {
 	test-unexisting-rule-2: 123;
 	width: 50px;
 	opacity: 5%;
+	appearance: textfield;
 }
 
 .test {
