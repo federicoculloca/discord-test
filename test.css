@@ -1,6 +1,15 @@
 body {
-
-	test-unexisting-rule: 123;
+	test-unexisting-rule-2: 123;
 	width: 50px;
 	opacity: 5%;
+	appearance: textfield;
+}
+
+.test {
+	opacity: 10%;
+	appearance: textfield;
+}
+
+.test2 {
+	appearance: textfield;
 }
