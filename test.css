@@ -6,4 +6,5 @@ body {
 
 .test {
 	opacity: 10%;
+	appearance: textfield;
 }
